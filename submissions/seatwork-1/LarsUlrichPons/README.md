@@ -12,7 +12,7 @@ Attach 1 or 2 screenshots of you (and your group) actually doing the work in you
 ## Evidence
 
 Paste your `check.sh` output showing `PASS`:
-
+```
 == Seatwork 1 — checking seatwork.sh ==
 
 -- Part A: required commands present --
@@ -48,6 +48,7 @@ PASS — practice_cli/ was removed (Part 5 cleanup ran).
 ==================================
 PASS — all checks passed.
 ==================================
+```
 ## Checklist
 
 - [x] All group members (if applicable) worked on this submission.
