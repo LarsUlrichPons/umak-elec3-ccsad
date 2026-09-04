@@ -6,3 +6,4 @@ ANSWER_4_ORDER: B, G, E, D, F, A, I, C, H
 ANSWER_5: The risk of the command chmod 777 is that it gives all the user read,write and execute access to a file, which can cause unnecessary modification since anyone can alter it
 ANSWER_6: To check if it's succeed or broken i'll be check again the /var/log/course-portal/app.log again to check if the permission was granted or denied
 ANSWER_7_BRIDGE: component=file permission, detect=alerting system, recover=configuration management, proof=health check
+<img width="1078" height="397" alt="Screenshot 2026-09-05 072017" src="https://github.com/user-attachments/assets/a22e1d38-048d-49b4-a25e-8863aa270ae5" />
